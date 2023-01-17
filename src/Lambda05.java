@@ -12,6 +12,7 @@ public class Lambda05 {
         istenenSayiIlkXKuvvetPrint(3,2);
         System.out.println();
         System.out.println(istenenSayiFactorial(5));
+        
 
 
     }
